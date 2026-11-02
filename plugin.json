@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Writes ad creative whose first line calls the avatar/problem, so the wrong audience self-excludes for free.",
+  "keywords": [
+    "ad",
+    "callout",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-ad-callout",
+  "repository": "https://github.com/baselam88/kairos-ad-callout-plugin",
+  "version": "0.1.0"
+}
